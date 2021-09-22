@@ -1,0 +1,41 @@
+
+
+.container{
+    margin: 0;
+    padding: 0;
+    background: #eee;
+    padding: 13px;
+}
+
+.container-form{
+    background-color: #6571ac;
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+}
+
+.container-form input {
+    background: #e4fbfb;
+    margin-bottom: 10px;
+}
+
+.container-form button {
+    display:block;
+    margin: auto;
+}
+
+.container-table{
+    display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+
+.container-table table thead {
+    background-color: #72c8f1;
+}
+
+.container-table table tr:nth-child(even) {
+    background-color: #abdefa;
+}
+
+
